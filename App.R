@@ -3,7 +3,7 @@ if (!require("shiny")) install.packages("shiny")
 if (!require("MASS")) install.packages("MASS")
 
 # remove bt from combined graph
-# drop down for dataset selection
+# drop down for dataset choice
 
 # Load required libraries
 library(shiny)
